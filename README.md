@@ -53,13 +53,9 @@ cd Instagram-clone
 #### 4. Set Up Parse Server
 
 - Deploy a Parse Server instance on your EC2 instance.
-- In the `app/src/main/res/values/strings.xml` file, update the placeholders with your Parse Server details:
+- In the `app/src/main/java/com/example/Instagramclone/StarterApplication.kt` file, update the placeholders with your Parse Server details:
 
-```xml
-<string name="parse_server_url">http://your-ec2-instance-public-dns-or-ip:1337/parse</string>
-<string name="parse_app_id">your-parse-app-id</string>
-<string name="parse_client_key">your-parse-client-key</string>
-```
+**Replace "http://3.110.195.12:80/parse/", "myappID", and "!Y=:urEJOEF4" with your actual Parse Server URL, application ID, and client key.**
 
 #### 5. Configure MongoDB
 
