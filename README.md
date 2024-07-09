@@ -33,7 +33,7 @@ This project is an Android application that emulates Instagram, allowing users t
 Clone the project from GitHub to your local machine.
 
 ```bash
-git clone https://github.com/your-username/Instagram-clone.git
+git clone https://github.com/kanak27/Instagram-clone.git
 cd Instagram-clone
 ```
 
