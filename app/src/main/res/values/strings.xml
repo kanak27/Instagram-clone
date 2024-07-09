@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram_clone</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+</resources>
