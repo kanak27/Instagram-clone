@@ -99,4 +99,4 @@ Please make sure your code follows the project's coding standards and includes r
 
 ## Contact
 
-For any questions, issues, or suggestions, please open an issue or contact the project maintainer at [your-email@example.com].
+For any questions, issues, or suggestions, please open an issue or contact the project maintainer at [kanaklohiya.lohiya@gmail.com].
